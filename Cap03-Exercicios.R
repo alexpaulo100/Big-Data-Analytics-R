@@ -1,4 +1,4 @@
-# Lista de Exercícios - Capítulo 3
+# Lista de Exercícios - Capítulo 3 01/1/2023
 
 # Exercício 1 - Pesquise pela função que permite listar todos os arquivo no diretório de trabalho
 list.files()
@@ -41,8 +41,6 @@ mat1 <- matrix(c(1:50), nrow = 5, ncol = 5, byrow = T)
 mat1
 mat2 <- t(mat1)
 mat2
-
-print(mat1 * mat2)
 
 # Multiplicação element-wise
 mat3 <- mat1 * mat2
