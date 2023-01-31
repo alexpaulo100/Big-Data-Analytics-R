@@ -2,11 +2,9 @@
 
 
 # Configurando o diretório de trabalho
-# Coloque entre aspas o diretório de trabalho que você está usando no seu computador
-# Não use diretórios com espaço no nome
+
 setwd("C:/BigDataRAzure/Cap06-Trabalhando-Banco-Dados")
 getwd()
-
 
 # Exercicio 1 - Instale a carregue os pacotes necessários para trabalhar com SQLite e R
 
