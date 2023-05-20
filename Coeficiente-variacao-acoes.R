@@ -1,8 +1,4 @@
 
-
-setwd("C:/Ciencias-de-Dados/BigData-R-Azure/Cap09-Introducao-analise-estatisticas2")
-getwd()
-
 ITausa <- c(8.7,7.5,7.8,8.3,9.0,9.7,8.7,8.4,8.5,8.2,8.1,8.6,8.9)
 Petr4 <- c(29.9,28.0,34.0,33.3,31.9,30.5,26.6,23.5,26.0,25.3,24.0,23.7,25.5)
 
